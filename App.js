@@ -1,13 +1,7 @@
-// import Quadrados from "./src/screens/Quadrados";
-import Login from './src/screens/Login/index';
-// import Compose from "./src/screens/Compose";
+import Lista from "./src/screens/Lista";
 
 export default function App() {
   return (
-    // <Quadrados />
-    <Login/>
-    // <Compose/>
-  )
+    <Lista/>
+  );
 }
-
-
